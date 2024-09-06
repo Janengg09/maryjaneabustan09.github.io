@@ -1,0 +1,186 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.border-dotted{
+    border: 2px black double;
+}
+div, .txt-justify{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.bg-main1 {
+    background-color: #212121;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-lightgray {
+    background-color: gainsboro;
+}
+
+.sd {
+    box-shadow: 10px 10px 4px -1px rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: 10px 10px 4px -1px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 10px 10px 4px -1px rgba(0, 0, 0, 0.4);
+}
+
+
+
+.um-logo {
+    height: 200px;
+    width: 220px;
+}
+
+.container-trio {
+    width: 700px;
+    border: 10px double black;
+}
+.icon-trio {
+    height: 150px;
+    width: 150px;
+}
+.food-trio {
+    height: 200px;
+    width: 200px;
+}
+
+.container-food {
+    width: 350px;
+    border: 10px double black;
+}
+.container-food-duo {
+    width: 450px;
+    border: 10px double black;
+}
+.container-food-big {
+    width: 450px;
+    border: 10px double black;
+}
+.container-events {
+    width: 1000px;
+    border: 10px double black;
+}
+
+.hr-dotted {
+    border: red dotted 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+}
+
+
+
+.resume-paper {
+    margin: 50px auto;
+    width: 970px;
+    border: #212121 1px solid;
+    display: flex;
+}
+
+.resume-left {
+    flex: 1;
+}
+
+.resume-right {
+    flex: 2;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.resume-pic {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.resume-highlight {
+    margin: 5px 10px;
+    text-align: center;
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.resume-case-paragraph {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.txt-indent {
+    text-indent: 3em;
+}
+
+.cs-obj {
+    height: 650px;
+    width: 1000px;
+    border: 10px double black;
+}
+
+.cs-duo {
+    height: 500px;
+    width: 500px;
+    border: 10px double black;
+}
+.cs-logo {
+    height: 180px;
+    width: 180px;
+}
+.ashfashfskaj{
+    background-color: black;
+}
+
+
+.bg-lightblue {
+    background-color: rgb(149, 251, 251);
+}
+footer{
+    display: flex;
+}
+footer div {
+    flex: 1;
+}
+
+
+.magazine-image{
+    height: 700px;
+    width: 500px;
+}
+div.homepage {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../images/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img-hr-1{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+}
+.img-vt-1{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+}
